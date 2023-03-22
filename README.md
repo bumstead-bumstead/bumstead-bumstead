@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm yohwan</h1>
-<h3 align="center">확장성 있는 깔끔한 애플리케이션 작성과, IT 서비스로 문제를 해결하는 데 관심이 많은 대학생 이요환입니다.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bumstead-bumstead&label=Profile%20views&color=0e75b6&style=flat" alt="bumstead-bumstead" /> </p>
-<center> - 🌱 확장성 있는, 효율적인 애플리케이션 코드 작성에 관심이 많습니다. OOP와 디자인 패턴에 관심을 갖고 공부 중입니다. </center> <br>
+<h3 align="center">확장성 있는 깔끔한 애플리케이션 작성과,<br> IT 서비스로 문제를 해결하는 데 관심이 많은 <br> 서버 개발자 대학생 이요환입니다.</h3>
+<div align=center>
+<p> <img src="https://komarev.com/ghpvc/?username=bumstead-bumstead&label=Profile%20views&color=0e75b6&style=flat" alt="bumstead-bumstead" /> </p>
+- 🌱 확장성 있는, 효율적인 애플리케이션 코드 작성에 관심이 많습니다. OOP와 디자인 패턴에 관심을 갖고 공부 중입니다. </center> <br>
 <center> - 🌱 IT 서비스로 문제를 해결하는 것에 관심이 많습니다. </center> <br>
   <center> - 🌱 최근에는 **ExpressJs, Design Pattern, IaC** 에 관심을 갖고 공부 중입니다. </center>
 
@@ -26,3 +26,4 @@
 <a href="https://instagram.com/dyghksdl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dyghksdl__" height="30" width="40" /></a>
 </p>
 
+</div>
