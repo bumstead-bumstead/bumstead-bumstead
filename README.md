@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bumstead-bumstead&show_icons=true&locale=en&layout=compact" alt="bumstead-bumstead" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&locale=en" alt="bumstead-bumstead" /></p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isz06243)](https://solved.ac/isz06243/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
