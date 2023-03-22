@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bumstead-bumstead&label=Profile%20views&color=0e75b6&style=flat" alt="bumstead-bumstead" /> </p>
 - 🌱 확장성 있는, 효율적인 애플리케이션 코드 작성에 관심이 많습니다. OOP와 디자인 패턴에 관심을 갖고 공부 중입니다. <br>
 - 🌱 IT 서비스로 문제를 해결하는 것에 관심이 많습니다. <br>
-- 🌱 최근에는 **ExpressJs, Design Pattern, IaC**에 관심을 갖고 공부 중입니다.
+- 🌱 최근에는 **ExpressJs, Design Pattern, IaC** 에 관심을 갖고 공부 중입니다.
 
 - 📫 How to reach me **dldyghks951@gmail.com**
 
@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&locale=en" alt="bumstead-bumstead" /></p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isz06243)](https://solved.ac/isz06243/)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={isz06243})](https://solved.ac/{isz06243})
