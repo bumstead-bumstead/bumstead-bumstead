@@ -7,7 +7,7 @@
   <center> - 🌱 최근에는 ExpressJs, Design Pattern, IaC에 관심을 갖고 공부 중입니다. </center>
 
 <h3>Languages and Tools</h3>
-<h5> **I'm familiar with : ** </h5>  
+<h5> I'm familiar with : </h5>  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
 
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bumstead-bumstead&show_icons=true&locale=en&layout=compact" alt="bumstead-bumstead" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&locale=en" alt="bumstead-bumstead" /></p>
