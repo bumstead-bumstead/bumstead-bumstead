@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&locale=en" alt="bumstead-bumstead" /></p>
 
-<center> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isz06243)](https://solved.ac/isz06243/)</center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isz06243)](https://solved.ac/isz06243/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
