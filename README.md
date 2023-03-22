@@ -6,9 +6,6 @@
 <center> - 🌱 IT 서비스로 문제를 해결하는 것에 관심이 많습니다. </center> <br>
   <center> - 🌱 최근에는 ExpressJs, Design Pattern, IaC에 관심을 갖고 공부 중입니다. </center>
 
-- 📫 How to reach me **dldyghks951@gmail.com**
-
-
 <h3>Languages and Tools</h3>
 <h5> **I'm familiar with : ** </h5>  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
