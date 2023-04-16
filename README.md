@@ -4,7 +4,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=bumstead-bumstead&label=Profile%20views&color=0e75b6&style=flat" alt="bumstead-bumstead" /> </p>
 - 🌱 확장성 있는, 효율적인 애플리케이션 코드 작성에 관심이 많습니다. OOP와 디자인 패턴에 관심을 갖고 공부 중입니다. </center> <br>
 <center> - 🌱 IT 서비스로 문제를 해결하는 것에 관심이 많습니다. </center> <br>
-  <center> - 🌱 최근에 Django, Design Pattern, Infra architecture, IaC에 관심을 갖고 공부 중입니다. </center>
+  <center> - 🌱 최근에 Django, Infra architecture, IaC에 관심을 갖고 공부 중입니다. </center>
 
 <h3>Languages and Tools</h3>
 <h5> I'm familiar with : </h5>  
