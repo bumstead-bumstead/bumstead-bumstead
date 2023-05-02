@@ -26,11 +26,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bumstead-bumstead&show_icons=true&locale=en&layout=compact" alt="bumstead-bumstead" /></p>
-
-![bumstead-bumstead's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats-bumstead-bumstead.vercel.app/api?username=bumstead-bumstead&show_icons=true)
+![bumstead-bumstead's GitHub stats](https://github-readme-stats-bumstead-bumstead.vercel.app/api?username=bumstead-bumstead&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-bumstead-bumstead.vercel.app/api/top-langs?username=bumstead-bumstead&layout=compact" alt="bumstead-bumstead" /></p>
 
