@@ -30,6 +30,8 @@
 
 ![bumstead-bumstead's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&locale=en" alt="bumstead-bumstead" /></p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isz06243)](https://solved.ac/isz06243/)
