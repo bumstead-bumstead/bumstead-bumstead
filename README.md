@@ -30,7 +30,7 @@
 
 ![bumstead-bumstead's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-rust-phi.vercel.app/api?username=bumstead-bumstead&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bumstead-bumstead&show_icons=true&locale=en" alt="bumstead-bumstead" /></p>
 
