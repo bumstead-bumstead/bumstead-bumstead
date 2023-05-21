@@ -3,7 +3,7 @@
 <div align=center>
 - 🌱 확장성 있는, 효율적인 애플리케이션 코드 작성에 관심이 많습니다. OOP에 관심을 갖고 공부 중입니다. </center> <br>
 <center> - 🌱 IT 서비스로 문제를 해결하는 것에 관심이 많습니다. </center> <br>
-  <center> - 🌱 최근에 Django, Infra architecture, IaC 및 OS, Network, DB 등 기본적인 Computer Science에 관심을 갖고 공부 중입니다. </center>
+  <center> - 🌱 최근에 OS, Network, DB 등 기본적인 Computer Science에 관심을 갖고 공부 중입니다. </center>
 
 <h3>Languages and Tools</h3>
 <h5> I'm familiar with : </h5>  
