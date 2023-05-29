@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm yohwan</h1>
+<!-- <h1 align="center">Hi 👋, I'm yohwan</h1>
 <h3 align="center">확장성 있는 깔끔한 애플리케이션 작성과,<br> IT 서비스로 문제를 해결하는 데 관심이 많은 <br> 서버 개발자 대학생 이요환입니다.</h3>
 <div align=center>
 - 🌱 확장성 있는, 효율적인 애플리케이션 코드 작성에 관심이 많습니다. OOP에 관심을 갖고 공부 중입니다. </center> <br>
 <center> - 🌱 IT 서비스로 문제를 해결하는 것에 관심이 많습니다. </center> <br>
-  <center> - 🌱 최근에 OS, Network, DB 등 기본적인 Computer Science에 관심을 갖고 공부 중입니다. </center>
+  <center> - 🌱 최근에 OS, Network, DB 등 기본적인 Computer Science에 관심을 갖고 공부 중입니다. </center> -->
 
 <h3>Languages and Tools</h3>
 <h5> I'm familiar with : </h5>  
@@ -25,10 +25,10 @@
 
 ---
 
-![bumstead-bumstead's GitHub stats](https://github-readme-stats-bumstead-bumstead.vercel.app/api?username=bumstead-bumstead&show_icons=true)
+<!-- ![bumstead-bumstead's GitHub stats](https://github-readme-stats-bumstead-bumstead.vercel.app/api?username=bumstead-bumstead&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-bumstead-bumstead.vercel.app/api/top-langs?username=bumstead-bumstead&layout=compact" alt="bumstead-bumstead" /></p>
-
+ -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isz06243)](https://solved.ac/isz06243/)
 
  📫 **How to reach me** : **dldyghks951@gmail.com**
